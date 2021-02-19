@@ -1,0 +1,1 @@
+git clone https://github.com/BIDS/BSDS500.git

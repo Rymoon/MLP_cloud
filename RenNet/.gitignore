@@ -1,0 +1,3 @@
+*.pyc
+*.statedict
+__pycache__

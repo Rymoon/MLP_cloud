@@ -1,0 +1,5 @@
+{
+    "db_path":"D:\\Workspace\\ADMM_Net\\MyHumbleADMM2\\MLP\\RenNetData\\BSDS500\\BSDS500.db",
+    "image_folder_path":"D:\\Workspace\\ADMM_Net\\MyHumbleADMM2\\MLP\\RenNetData\\BSDS500\\BSDS500\\BSDS500\\data\\images\\train",
+    "image_suffix":["jpg"]
+}
